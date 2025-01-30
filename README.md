@@ -73,10 +73,10 @@ Para instalação e configuração do ambiente de execução, siga os passos a s
 # Estrutura do Projeto
 A estrutura do projeto esta organizada da seguinte forma:
 -  LH_CD/ - Repositório
-1. Teste_Indicium_Analise_e_Modelo.ipynb      - Jupyter Notebook com o código do modelo
-2. Teste_Indicium_Analise_e_Modelo.pkl        - Modelo treinado salvo em formato .pkl
-3. requirements.txt                           - Lista de dependências
-4. README.md                                  - O presente arquivo
+1. README.md - O presente arquivo
+2. requirements.txt - Lista de dependências      
+3. Teste_Indicium_Analise_e_Modelo.ipynb -Jupyter Notebook com o código do modelo                     
+4. Teste_Indicium_Analise_e_Modelo.pkl - Modelo treinado salvo em formato .pkl                            
 
 
 # Dependências
