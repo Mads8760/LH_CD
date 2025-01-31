@@ -22,7 +22,7 @@ Para instalação e configuração do ambiente de execução, siga os passos a s
      - cd C: \caminho\para\pasta\de\destino
      -  Em seguida execute o codigo: git clone https://github.com/sue-usuario/u-respositorio.git
      -  Apos isso execute os comanado de instalação: pip install -r requirements.txt
-3. InstalandoJupyter Notebook:
+3. Instalando o Jupyter Notebook:
    * No prompt de comando digite jupyter notebook e espere instalar. Apos isso escolha qual browser você quer abri-lo.
    * Apos isso, na pagina inicial do jupyter notebook ( onde e possivel ver os arquivos e pastas), clique em New localizado na canto superior direito e selecione Terminal
    * Navegue ate a pasta do projeto utilizando o comando cd e execute os comandos de instalação:
