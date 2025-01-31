@@ -53,7 +53,7 @@ Para instalação e configuração do ambiente de execução, siga os passos a s
 
 
 # Modelo salvo em pkl
- * Para esecutar o modelo salvo em pkl , execute o seguinte comando no seu jupyter notebook:
+ * Para executar o modelo salvo em pkl , execute o seguinte comando no seu jupyter notebook:
  
  - importar bibliotecas
  
